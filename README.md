@@ -4,7 +4,7 @@
 Передача по протоколу RC Switch на ESP с прошивкой https://wifi-iot.com/
 Arduino 1.8.15
  ToDo: 
-   +   SHT31 SDA-pin ADC5, SCL-pin ADC4 (сделано)
+   +   SHT31: SCL-pin ADC5, SDA-pin ADC4 (сделано)
    +   пeреход на голую ATMega328P 8MHz Internal clock - работает (Atmega328p PowerDown=4.5uA) https://www.arduino.cc/en/Tutorial/BuiltInExamples/ArduinoToBreadboard
    +   добавление конфигурации через дефайны (сделано)
 
